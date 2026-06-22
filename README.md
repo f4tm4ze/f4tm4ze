@@ -1,80 +1,52 @@
-# Bai Fatima Andong — Portfolio
+<div align="center">
 
-[![Live Site](https://img.shields.io/badge/live-fatimaandong.vercel.app-FF3B30?style=flat-square)](https://fatimaandong.vercel.app/)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![Deployed on Vercel](https://img.shields.io/badge/deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
+# Hi, I'm Bai Fatima Andong 👋
 
-Personal portfolio of **Bai Fatima Andong**, a Computer Science student at the University of Mindanao – Davao focused on AI and full-stack software development. Built to showcase projects, skills, and experience with a fast, modern, and distinctly branded interface.
+**Computer Science Student · AI & Software Development Enthusiast**
 
-**Live:** [fatimaandong.vercel.app](https://fatimaandong.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fatimaandong.vercel.app-FF3B30?style=flat-square)](https://fatimaandong.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bai-fatima-andong-330a05365)
+[![Email](https://img.shields.io/badge/Email-baifatimaandong5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baifatimaandong5@gmail.com)
 
-## Overview
+</div>
 
-This site is a single-page portfolio with animated sections covering:
+---
 
-- **Hero** — intro, quick stats (projects, certifications, years coding), resume download
-- **About** — bio, technical skills (Frontend / Backend / AI-ML / Tools), and a timeline of milestones
-- **Projects** — filterable showcase (Machine Learning, Web Application, UI/UX Design) with live demo and source links, including an Android malware detection app and a diabetes prediction system
-- **Certifications** — verified credentials (Databases, Network Security) with credential links
-- **Contact** — direct email form plus quick links to email, GitHub, and LinkedIn
-- **Recruiter Mode** — an in-site AI chat assistant for recruiters and visitors to ask questions about Fatima's background
+### About Me
 
-## Tech Stack
+Computer Science student at the **University of Mindanao – Davao**, driven by the intersection of artificial intelligence and real-world software engineering. I build elegant, performant applications — from intelligent chatbots to full-stack web platforms — and I'm working toward becoming a **Full-Stack AI Engineer**.
 
-- **Framework:** Next.js 15 (React)
-- **UI:** MUI v9
-- **Typography:** DM Sans, Instrument Serif, Syne, JetBrains Mono
-- **Styling:** Custom red-accented brand/theme system
-- **AI Integration:** Groq API (powers the Recruiter Mode chat assistant)
-- **Email:** Resend API
-- **Deployment:** Vercel
+Currently exploring: **LLMs**, **Retrieval-Augmented Generation**, full-stack development, and developer experience.
 
-## Getting Started
+📍 Based in Davao City, Philippines — open to remote, hybrid, or on-site opportunities.
 
-```bash
-git clone https://github.com/f4tm4ze/my-portfolio.git
-cd my-portfolio
-npm install
-```
+### What I Build
 
-Create a `.env.local` file in the project root with the required keys:
+- 🤖 **AI/ML applications** — malware detection, predictive healthcare analytics, intelligent chat assistants
+- 🌐 **Full-stack web platforms** — Next.js, Laravel, and everything in between
+- 🎨 **UI/UX prototypes** — accessibility-focused, user-centered design in Figma
 
-```bash
-GROQ_API_KEY=your_groq_api_key
-RESEND_API_KEY=your_resend_api_key
-```
+### Tech Stack
 
-> **Note:** `.env.local` is gitignored and should never be committed. If you're cloning this for reference, you'll need your own API keys from [Groq](https://console.groq.com/) and [Resend](https://resend.com/).
+**Frontend** — React / Next.js · TypeScript · Tailwind CSS · HTML/CSS
+**Backend** — Node.js / Express · Python · PostgreSQL · Java · PHP
+**AI/ML** — Gemini / OpenAI API · Scikit-learn · Prompt Engineering · Hugging Face
+**Tools** — Git · GitHub · VS Code · Vercel · Figma
 
-Run the development server:
+### Featured Projects
 
-```bash
-npm run dev
-```
+| Project | Description |
+|---|---|
+| [**Portfolio Site**](https://github.com/f4tm4ze/my-portfolio) | My personal site with a Groq-powered AI assistant for recruiters |
+| [**Android Malware Detection**](https://github.com/f4tm4ze/FinalCS20) | ML-powered Android security scanner |
+| [**Diabetes Prediction System**](https://github.com/f4tm4ze/Diabetes-Prediction-System) | Predictive healthcare analytics with Scikit-learn |
+| [**Hair Salon Management System**](https://github.com/f4tm4ze/Salon-Management-System) | Full-stack appointment & inventory management in Laravel |
 
-Open [http://localhost:3000](http://localhost:3000) to view it locally.
+🔗 More on my [portfolio site](https://fatimaandong.vercel.app/) — including a chat assistant if you'd rather just ask.
 
-## Project Structure
+### Let's Connect
 
-```
-my-portfolio/
-├── app/              # Next.js app router pages
-├── components/        # Hero, About, Skills, Projects, Timeline, Certifications, Contact, Stats
-├── public/
-│   └── images/        # Project thumbnails, logo, profile photo
-└── styles/            # Theme and global styles
-```
+I'm open to collaborations, internships, and project opportunities in AI Engineering, Full-Stack Development, or Software Engineering. Feel free to reach out!
 
-## Deployment
-
-Deployed on [Vercel](https://vercel.com/). Pushes to `main` trigger automatic builds. Environment variables (`GROQ_API_KEY`, `RESEND_API_KEY`) must be set in the Vercel project settings, not just locally.
-
-## Contact
-
-- **GitHub:** [@f4tm4ze](https://github.com/f4tm4ze)
-- **LinkedIn:** [Bai Fatima Andong](https://www.linkedin.com/in/bai-fatima-andong-330a05365)
-- **Email:** baifatimaandong5@gmail.com
-
-## License
-
-This project is for personal portfolio use. Feel free to use it as inspiration, but please don't copy it wholesale as your own portfolio.
+[![Email](https://img.shields.io/badge/Email-baifatimaandong5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baifatimaandong5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bai%20Fatima%20Andong-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bai-fatima-andong-330a05365)
