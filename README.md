@@ -14,7 +14,7 @@
 
 ### About Me
 
-Computer Science student at the **University of Mindanao – Davao**, driven by the intersection of artificial intelligence and real-world software engineering. I build elegant, performant applications — from intelligent chatbots to full-stack web platforms — and I'm working toward becoming a **Full-Stack AI Engineer**.
+Computer Science student at the **University of Mindanao – Davao**, driven by the intersection of artificial intelligence and real-world software engineering. I build elegant, performant applications — from intelligent chatbots to full-stack web platforms - and I'm working toward becoming a **Full-Stack AI Engineer**.
 
 Currently exploring: **LLMs**, **Retrieval-Augmented Generation**, full-stack development, and developer experience.
 
